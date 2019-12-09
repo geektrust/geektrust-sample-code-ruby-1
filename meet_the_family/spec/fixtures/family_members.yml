@@ -1,0 +1,155 @@
+King Arthur:
+    gender: Male
+    father: nil
+    mother: nil
+    spouse: Queen Margret
+Queen Margret:
+    gender: Female
+    father: nil
+    mother: nil
+    spouse: King Arthur
+Bill:
+    gender: Male
+    father: King Arthur
+    mother: Queen Margret
+    spouse: Flora
+Flora:
+    gender: Female
+    father: nil
+    mother: nil
+    spouse: Bill
+Charlie:
+    gender: Male
+    father: King Arthur
+    mother: Queen Margret
+    spouse: nil
+Percy:
+    gender: Male
+    father: King Arthur
+    mother: Queen Margret
+    spouse: Audrey
+Audrey:
+    gender: Female
+    father: nil
+    mother: nil
+    spouse: Percy
+Ronald:
+    gender: Male
+    father: King Arthur
+    mother: Queen Margret
+    spouse: Helen
+Helen:
+    gender: Female
+    father: nil
+    mother: nil
+    spouse: Ronald
+Ginerva:
+    gender: Female
+    father: King Arthur
+    mother: Queen Margret
+    spouse: Harry
+Harry:
+    gender: Male
+    father: nil
+    mother: nil
+    spouse: Ginerva
+Victoire:
+    gender: Female
+    father: Bill
+    mother: Flora
+    spouse: Ted
+Ted:
+    gender: Male
+    father: nil
+    mother: nil
+    spouse: Victoire
+Dominique:
+    gender: Female
+    father: Bill
+    mother: Flora
+    spouse: nil
+Louis:
+    gender: Male
+    father: Bill
+    mother: Flora
+    spouse: nil
+Molly:
+    gender: Female
+    father: Percy
+    mother: Audrey
+    spouse: nil
+Lucy:
+    gender: Female
+    father: Percy
+    mother: Audrey
+    spouse: nil
+Malfoy:
+    gender: Male
+    father: nil
+    mother: nil
+    spouse: Rose
+Rose:
+    gender: Female
+    father: Ronald
+    mother: Helen
+    spouse: Malfoy
+Hugo:
+    gender: Male
+    father: Ronald
+    mother: Helen
+    spouse: nil
+Darcy:
+    gender: Female
+    father: nil
+    mother: nil
+    spouse: James
+James:
+    gender: Male
+    father: Harry
+    mother: Ginerva
+    spouse: Darcy
+Alice:
+    gender: Female
+    father: nil
+    mother: nil
+    spouse: Albus
+Albus:
+    gender: Male
+    father: Harry
+    mother: Ginerva
+    spouse: Alice
+Lily:
+    gender: Female
+    father: Harry
+    mother: Ginerva
+    spouse: nil
+Remus:
+    gender: Male
+    father: Ted
+    mother: Victoire
+    spouse: nil
+Draco:
+    gender: Male
+    father: Malfoy
+    mother: Rose
+    spouse: nil
+Aster:
+    gender: Female
+    father: Malfoy
+    mother: Rose
+    spouse: nil
+William:
+    gender: Male
+    father: James
+    mother: Darcy
+    spouse: nil
+Ron:
+    gender: Male
+    father: Albus
+    mother: Alice
+    spouse: nil
+Ginny:
+    gender: Female
+    father: Albus
+    mother: Alice
+    spouse: nil

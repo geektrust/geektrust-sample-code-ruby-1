@@ -1,0 +1,7 @@
+desc "run meet_the_family app"
+task "meet_the_family", [:input_file] do |task, args|
+  require_relative 'lib/meet_the_family'
+
+  MeetTheFamily.run(args[:input_file])
+end
+
